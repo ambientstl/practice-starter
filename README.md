@@ -2,7 +2,9 @@
 
 ## HELLO
 
-[link to my profile](github.com/ambientstl)
+[WEB LINK: link to my profile](https://github.com/ambientstl)
+
+[LOCAL LINK: index.js](/index.js)
 
 #### Some of my favorite movies:
 - Psycho
